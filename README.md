@@ -1,4 +1,4 @@
-# Astro Starter Kit: Blog
+# Wish Contract
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
 
@@ -6,8 +6,7 @@
 
 <!-- dash-content-start -->
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
-
+歡迎來到我們的官方網站！
 Features:
 
 - ✅ Minimal styling (make it your own!)
